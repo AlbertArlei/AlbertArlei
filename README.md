@@ -1,4 +1,6 @@
-# **Albert Arlei**
+
+<h1><img src="https://gelbooru.com/counter/0.gif" alt="imagem 1" style="float: left; margin-right: 10px;">Albert Arlei<img src="https://gelbooru.com/counter/0.gif" alt="imagem 2" style="float: left;"></h1>
+
 
 ### Redes sociais
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzBWdsnXGWpjtXJDLfhglTkbNHzzxQcGjpPRGlMMqBncgkSbktzxkRDRdWmKkrbplZxvJfj)
